@@ -1,0 +1,15 @@
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\bin\Debug\net6.0\Tarea 1 José Palacios.exe
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\bin\Debug\net6.0\Tarea 1 José Palacios.deps.json
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\bin\Debug\net6.0\Tarea 1 José Palacios.runtimeconfig.json
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\bin\Debug\net6.0\Tarea 1 José Palacios.dll
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\bin\Debug\net6.0\Tarea 1 José Palacios.pdb
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\obj\Debug\net6.0\Tarea 1 José Palacios.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\obj\Debug\net6.0\Tarea 1 José Palacios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\obj\Debug\net6.0\Tarea 1 José Palacios.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\obj\Debug\net6.0\Tarea 1 José Palacios.AssemblyInfo.cs
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\obj\Debug\net6.0\Tarea 1 José Palacios.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\obj\Debug\net6.0\Tarea 1 José Palacios.dll
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\obj\Debug\net6.0\refint\Tarea 1 José Palacios.dll
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\obj\Debug\net6.0\Tarea 1 José Palacios.pdb
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\obj\Debug\net6.0\Tarea 1 José Palacios.genruntimeconfig.cache
+C:\Users\josep\source\repos\Tarea 1 José Palacios\Tarea 1 José Palacios\obj\Debug\net6.0\ref\Tarea 1 José Palacios.dll
