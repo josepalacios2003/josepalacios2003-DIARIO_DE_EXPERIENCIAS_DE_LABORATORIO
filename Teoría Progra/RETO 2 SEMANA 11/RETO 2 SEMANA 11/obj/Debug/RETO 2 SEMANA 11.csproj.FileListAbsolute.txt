@@ -1,0 +1,8 @@
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\RETO 2 SEMANA 11\RETO 2 SEMANA 11\bin\Debug\RETO 2 SEMANA 11.exe.config
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\RETO 2 SEMANA 11\RETO 2 SEMANA 11\bin\Debug\RETO 2 SEMANA 11.exe
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\RETO 2 SEMANA 11\RETO 2 SEMANA 11\bin\Debug\RETO 2 SEMANA 11.pdb
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\RETO 2 SEMANA 11\RETO 2 SEMANA 11\obj\Debug\RETO 2 SEMANA 11.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\RETO 2 SEMANA 11\RETO 2 SEMANA 11\obj\Debug\RETO 2 SEMANA 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\RETO 2 SEMANA 11\RETO 2 SEMANA 11\obj\Debug\RETO 2 SEMANA 11.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\RETO 2 SEMANA 11\RETO 2 SEMANA 11\obj\Debug\RETO 2 SEMANA 11.exe
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\RETO 2 SEMANA 11\RETO 2 SEMANA 11\obj\Debug\RETO 2 SEMANA 11.pdb
