@@ -1,8 +1,0 @@
-C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 2\Reto 2\bin\Debug\Reto 2.exe.config
-C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 2\Reto 2\bin\Debug\Reto 2.exe
-C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 2\Reto 2\bin\Debug\Reto 2.pdb
-C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 2\Reto 2\obj\Debug\Reto 2.csproj.AssemblyReference.cache
-C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 2\Reto 2\obj\Debug\Reto 2.csproj.SuggestedBindingRedirects.cache
-C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 2\Reto 2\obj\Debug\Reto 2.csproj.CoreCompileInputs.cache
-C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 2\Reto 2\obj\Debug\Reto 2.exe
-C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 2\Reto 2\obj\Debug\Reto 2.pdb
