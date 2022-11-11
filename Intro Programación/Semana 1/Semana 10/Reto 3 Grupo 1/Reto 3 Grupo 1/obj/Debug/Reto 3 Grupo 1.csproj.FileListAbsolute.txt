@@ -1,0 +1,8 @@
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 3 Grupo 1\Reto 3 Grupo 1\bin\Debug\Reto 3 Grupo 1.exe.config
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 3 Grupo 1\Reto 3 Grupo 1\bin\Debug\Reto 3 Grupo 1.exe
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 3 Grupo 1\Reto 3 Grupo 1\bin\Debug\Reto 3 Grupo 1.pdb
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 3 Grupo 1\Reto 3 Grupo 1\obj\Debug\Reto 3 Grupo 1.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 3 Grupo 1\Reto 3 Grupo 1\obj\Debug\Reto 3 Grupo 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 3 Grupo 1\Reto 3 Grupo 1\obj\Debug\Reto 3 Grupo 1.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 3 Grupo 1\Reto 3 Grupo 1\obj\Debug\Reto 3 Grupo 1.exe
+C:\Users\josep\OneDrive\Documents\URL Ingeniería\II Ciclo\Lab Progra\Reto 3 Grupo 1\Reto 3 Grupo 1\obj\Debug\Reto 3 Grupo 1.pdb
