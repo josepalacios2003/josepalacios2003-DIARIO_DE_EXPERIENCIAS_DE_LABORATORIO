@@ -1,0 +1,15 @@
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\bin\Debug\net6.0\L1+_+José Alejandro Carné1129522.exe
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\bin\Debug\net6.0\L1+_+José Alejandro Carné1129522.deps.json
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\bin\Debug\net6.0\L1+_+José Alejandro Carné1129522.runtimeconfig.json
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\bin\Debug\net6.0\L1+_+José Alejandro Carné1129522.dll
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\bin\Debug\net6.0\L1+_+José Alejandro Carné1129522.pdb
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\obj\Debug\net6.0\L1+_+José Alejandro Carné1129522.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\obj\Debug\net6.0\L1+_+José Alejandro Carné1129522.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\obj\Debug\net6.0\L1+_+José Alejandro Carné1129522.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\obj\Debug\net6.0\L1+_+José Alejandro Carné1129522.AssemblyInfo.cs
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\obj\Debug\net6.0\L1+_+José Alejandro Carné1129522.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\obj\Debug\net6.0\L1+_+José Alejandro Carné1129522.dll
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\obj\Debug\net6.0\refint\L1+_+José Alejandro Carné1129522.dll
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\obj\Debug\net6.0\L1+_+José Alejandro Carné1129522.pdb
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\obj\Debug\net6.0\L1+_+José Alejandro Carné1129522.genruntimeconfig.cache
+C:\Users\josep\source\repos\L1+_+José Alejandro Carné1129522\L1+_+José Alejandro Carné1129522\obj\Debug\net6.0\ref\L1+_+José Alejandro Carné1129522.dll
